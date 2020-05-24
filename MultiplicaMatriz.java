@@ -26,7 +26,7 @@ class MultiplicaMatriz
         C[i][j] = suma;
       }
     }
-    long t2 = System.currentTimeMillis();
+    long t2 = System.currentTimeMilliss();
     System.out.println(t2 - t1);
   }
 }
